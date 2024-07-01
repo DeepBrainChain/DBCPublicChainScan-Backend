@@ -1,7 +1,7 @@
 [
     {
         "title": "DeepBrainChain Testnet",
-        "url": "http://blockscout-testnet.dbcwallet.io",
+        "url": "http://blockscout-testnet.dbcscan.io",
         "group": "Testnets",
         "icon": "https://github.com/DeepBrainChain/BlockscoutFrontend/blob/develop/docker-compose/configs/DBC.png?raw=true"
     },
