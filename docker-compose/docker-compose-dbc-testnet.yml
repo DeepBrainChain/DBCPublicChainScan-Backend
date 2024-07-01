@@ -127,23 +127,23 @@ services:
     environment:
       NEXT_PUBLIC_NETWORK_NAME: DeepBrainChain Testnet
       NEXT_PUBLIC_NETWORK_SHORT_NAME: DeepBrainChain
-      NEXT_PUBLIC_NETWORK_RPC_URL: https://test.dbcwallet.io:9988
+      NEXT_PUBLIC_NETWORK_RPC_URL: https://rpc-testnet.dbcwallet.io
       NEXT_PUBLIC_NETWORK_ID: 19850818
       NEXT_PUBLIC_NETWORK_CURRENCY_NAME: DeepBrainChain
       NEXT_PUBLIC_NETWORK_CURRENCY_SYMBOL: DBC
-      NEXT_PUBLIC_NETWORK_CURRENCY_DECIMALS: 15
+      NEXT_PUBLIC_NETWORK_CURRENCY_DECIMALS: 18
       NEXT_PUBLIC_WALLET_CONNECT_PROJECT_ID:
       NEXT_PUBLIC_IS_TESTNET: true
       NEXT_PUBLIC_IS_ACCOUNT_SUPPORTED: false
       NEXT_PUBLIC_APP_PROTOCOL: https
-      NEXT_PUBLIC_APP_HOST: blockscout.testnet.dbcscan.io
+      NEXT_PUBLIC_APP_HOST: blockscout-testnet.dbcscan.io
       NEXT_PUBLIC_APP_PORT: 443
       NEXT_PUBLIC_API_PROTOCOL: https
       NEXT_PUBLIC_API_WEBSOCKET_PROTOCOL: wss
-      NEXT_PUBLIC_API_HOST: blockscout.testnet.dbcscan.io
+      NEXT_PUBLIC_API_HOST: blockscout-testnet.dbcscan.io
       NEXT_PUBLIC_API_PORT: 443
-      NEXT_PUBLIC_STATS_API_HOST: https://stats.testnet.dbcscan.io
-      NEXT_PUBLIC_VISUALIZE_API_HOST: https://visualize.testnet.dbcscan.io
+      NEXT_PUBLIC_STATS_API_HOST: https://stats-testnet.dbcscan.io
+      NEXT_PUBLIC_VISUALIZE_API_HOST: https://visualize-testnet.dbcscan.io
       NEXT_PUBLIC_NETWORK_LOGO: https://raw.githubusercontent.com/DeepBrainChain/BlockscoutFrontend/develop/docker-compose/configs/DeepBrainChainLogo.png
       NEXT_PUBLIC_NETWORK_LOGO_DARK:
       FAVICON_GENERATOR_API_KEY: 87811573d5c5518da21c7c0b669f568bdd9e7004
