@@ -156,7 +156,7 @@ services:
       NEXT_PUBLIC_MARKETPLACE_CONFIG_URL: https://raw.githubusercontent.com/DeepBrainChain/BlockscoutFrontend/develop/docker-compose/configs/marketplace_testnet_config.json
       NEXT_PUBLIC_MARKETPLACE_SUBMIT_FORM: https://github.com/DeepBrainChain/BlockscoutFrontend
       NEXT_PUBLIC_FOOTER_LINKS: https://raw.githubusercontent.com/DeepBrainChain/BlockscoutFrontend/develop/docker-compose/configs/footer_links.json
-      NEXT_PUBLIC_OTHER_LINKS:
+      NEXT_PUBLIC_OTHER_LINKS: '[{"text": "Faucet","url": "https://faucet.dbcscan.io"}]'
       NEXT_PUBLIC_AD_BANNER_PROVIDER: none
       NEXT_PUBLIC_AD_TEXT_PROVIDER: none
       NEXT_PUBLIC_RE_CAPTCHA_APP_SITE_KEY:
