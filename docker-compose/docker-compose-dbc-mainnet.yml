@@ -136,11 +136,11 @@ services:
       NEXT_PUBLIC_IS_TESTNET: false
       NEXT_PUBLIC_IS_ACCOUNT_SUPPORTED: false
       NEXT_PUBLIC_APP_PROTOCOL: https
-      NEXT_PUBLIC_APP_HOST: blockscout.dbcscan.io
+      NEXT_PUBLIC_APP_HOST: www.dbcscan.io
       NEXT_PUBLIC_APP_PORT: 443
       NEXT_PUBLIC_API_PROTOCOL: https
       NEXT_PUBLIC_API_WEBSOCKET_PROTOCOL: wss
-      NEXT_PUBLIC_API_HOST: blockscout.dbcscan.io
+      NEXT_PUBLIC_API_HOST: www.dbcscan.io
       NEXT_PUBLIC_API_PORT: 443
       NEXT_PUBLIC_STATS_API_HOST: https://stats.dbcscan.io
       NEXT_PUBLIC_VISUALIZE_API_HOST: https://visualize.dbcscan.io
