@@ -78,7 +78,7 @@
         "author": "Drcpad",
         "id": "Drcpad",
         "title": "Drcpad",
-        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DBC.png",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DrcpadLogo.jpg",
         "categories": [
           "Luanchpad"
         ],
