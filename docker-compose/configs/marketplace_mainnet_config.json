@@ -1,2 +1,107 @@
 [
+    {
+        "author": "DeepLink",
+        "id": "DeepLink",
+        "title": "DeepLink",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DeeplinkLogo.png",
+        "categories": [
+          "DeAI"
+        ],
+        "shortDescription": "AI+DePIN+Cloud Gaming+GPU",
+        "site": "https://www.deeplink.cloud",
+        "description": "DeepLink is a decentralized cloud gaming protocol driven by AI and blockchain technology. The ultimate combination of narratives, bringing Artificial Intelligence, Gaming, GPUs, Real World Asset Tokenization, and Decentralized Physical Infrastructure Networks together into ONE project. DEEPLINK offers ultra-low latency gaming rendering technology that supports a wide array of applications, such as cloud esports, cloud internet cafes, cloud-based 3A games, blockchain integrated gaming and cloud VR/AR/XR, among others. The Deeplink protocol, enhanced by AI technology, can improve the rendering resolution and clarity of games.",
+        "url": "https://www.deeplink.cloud",
+        "external": true,
+        "internalWallet": false
+      },
+      {
+        "author": "DecentralGPT",
+        "id": "DecentralGPT",
+        "title": "DecentralGPT",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DecentralGPTLogo.png",
+        "categories": [
+          "DeAI"
+        ],
+        "shortDescription": "AI+DePIN+GPU+AGI",
+        "site": "https://www.decentralgpt.org",
+        "description": "DecentralGPT supports a variety of open-source large language models. It is committed to building a safe, privacy-protective, democratic, transparent, open-source, and universally accessible AGI.",
+        "url": "https://www.decentralgpt.org",
+        "external": true,
+        "internalWallet": false
+      },
+      {
+        "author": "Superimage",
+        "id": "Superimage",
+        "title": "Superimage",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/SuperimageLogo.png",
+        "categories": [
+          "DeAI"
+        ],
+        "shortDescription": "AI+DePIN+GPU+Image",
+        "site": "https://www.superimage.ai",
+        "description": "SuperImage has multiple latent text-to-image diffusion models of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.",
+        "url": "https://www.superimage.ai",
+        "external": true,
+        "internalWallet": false
+      },
+      {
+        "author": "Hibaocloud",
+        "id": "Hibaocloud",
+        "title": "Hibaocloud",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DBC.png",
+        "categories": [
+          "GPU Cloud"
+        ],
+        "shortDescription": "AI+DePIN+GPU+Image",
+        "site": "https://www.hibaocloud.com/",
+        "description": "SuperImage has multiple latent text-to-image diffusion models of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.",
+        "url": "https://www.hibaocloud.com/",
+        "external": true,
+        "internalWallet": false
+      },
+      {
+        "author": "Hycons",
+        "id": "Hycons",
+        "title": "Hycons",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DBC.png",
+        "categories": [
+          "GPU Cloud"
+        ],
+        "shortDescription": ".",
+        "site": "https://www.hycons.ai",
+        "description": ".",
+        "url": "https://www.hycons.ai",
+        "external": true,
+        "internalWallet": false
+      },
+      {
+        "author": "Drcpad",
+        "id": "Drcpad",
+        "title": "Drcpad",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DBC.png",
+        "categories": [
+          "Luanchpad"
+        ],
+        "shortDescription": ".",
+        "site": "https://www.drcpad.io",
+        "description": ".",
+        "url": "https://www.drcpad.io",
+        "external": true,
+        "internalWallet": false
+      },
+      {
+        "author": "DeepBrainChain Wallet",
+        "id": "DeepBrainChain-wallet",
+        "title": "DeepBrainChain Wallet",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DBC.png",
+        "categories": [
+          "Wallet"
+        ],
+        "shortDescription": "AI + DePIN + GPU",
+        "site": "https://www.dbcwallet.io",
+        "description": "DeepBrain Chain 2.0 is an AI public chain. AI developers can develop decentralized AI products based on DBC.",
+        "url": "https://www.deepbrainchain.org",
+        "external": true,
+        "internalWallet": false
+      }
 ]
