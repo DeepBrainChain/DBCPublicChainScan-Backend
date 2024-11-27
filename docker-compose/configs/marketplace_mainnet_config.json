@@ -75,16 +75,16 @@
         "internalWallet": false
       },
       {
-        "author": "Drcpad",
-        "id": "Drcpad",
-        "title": "Drcpad",
-        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DrcpadLogo.jpg",
+        "author": "DRCPad",
+        "id": "DRCPad",
+        "title": "DRCPad",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DRCPadLogo.jpg",
         "categories": [
           "Luanchpad"
         ],
-        "shortDescription": ".",
+        "shortDescription": "Node launchpad",
         "site": "https://www.drcpad.io",
-        "description": ".",
+        "description": "DRCPad - the first primary market for trading AI nodes. It is a fundraising, promotion, and marketing platform for new projects based on the Deepbrain AI market. DBC and USDT are two mainnet tokens of DRCPad",
         "url": "https://www.drcpad.io",
         "external": true,
         "internalWallet": false
