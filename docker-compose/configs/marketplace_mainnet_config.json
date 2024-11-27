@@ -3,7 +3,7 @@
         "author": "DeepLink",
         "id": "DeepLink",
         "title": "DeepLink",
-        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DeeplinkLogo.jpg",
+        "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DeepLinkLogo.jpg",
         "categories": [
           "DeAI"
         ],
