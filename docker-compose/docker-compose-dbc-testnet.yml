@@ -153,7 +153,7 @@ services:
       NEXT_PUBLIC_HOMEPAGE_CHARTS: '["daily_txs","coin_price","market_cap"]'
       NEXT_PUBLIC_FEATURED_NETWORKS: https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/featured_networks_config.json
       NEXT_PUBLIC_MARKETPLACE_ENABLED: true
-      NEXT_PUBLIC_MARKETPLACE_CONFIG_URL: https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/marketplace_testnet_config.json
+      NEXT_PUBLIC_MARKETPLACE_CONFIG_URL: https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/marketplace_mainnet_config.json
       NEXT_PUBLIC_MARKETPLACE_SUBMIT_FORM: https://github.com/DeepBrainChain/DBCPublicChainScan
       NEXT_PUBLIC_FOOTER_LINKS: https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/footer_links.json
       NEXT_PUBLIC_OTHER_LINKS: '[{"text": "Faucet","url": "https://faucet.dbcscan.io"}]'
