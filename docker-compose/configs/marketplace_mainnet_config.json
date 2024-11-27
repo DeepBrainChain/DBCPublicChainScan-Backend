@@ -30,31 +30,31 @@
         "internalWallet": false
       },
       {
-        "author": "Superimage",
-        "id": "Superimage",
-        "title": "Superimage",
+        "author": "SuperImage",
+        "id": "SuperImage",
+        "title": "SuperImage",
         "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/SuperimageLogo.jpg",
         "categories": [
           "DeAI"
         ],
         "shortDescription": "AI + DePIN + GPU + Image",
         "site": "https://www.superimage.ai",
-        "description": "SuperImage has multiple latent text-to-image diffusion models of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.",
+        "description": "SuperImage has multiple latent text-to-image diffusion models of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.",
         "url": "https://www.superimage.ai",
         "external": true,
         "internalWallet": false
       },
       {
-        "author": "Hibaocloud",
-        "id": "Hibaocloud",
-        "title": "Hibaocloud",
+        "author": "HibaoCloud",
+        "id": "HibaoCloud",
+        "title": "HibaoCloud",
         "logo": "https://raw.githubusercontent.com/DeepBrainChain/DBCPublicChainScan/develop/docker-compose/configs/DBC.png",
         "categories": [
           "GPU Cloud"
         ],
-        "shortDescription": "AI + DePIN + GPU + Image",
+        "shortDescription": "",
         "site": "https://www.hibaocloud.com/",
-        "description": "SuperImage has multiple latent text-to-image diffusion models of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.",
+        "description": ".",
         "url": "https://www.hibaocloud.com/",
         "external": true,
         "internalWallet": false
