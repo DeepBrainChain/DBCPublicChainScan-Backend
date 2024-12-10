@@ -53,7 +53,7 @@ services:
       -  ./envs/common-blockscout.env
     environment:
         ETHEREUM_JSONRPC_HTTP_URL: http://host.docker.internal:18545/
-        #ETHEREUM_JSONRPC_TRACE_URL: http://host.docker.internal:18545/
+        ETHEREUM_JSONRPC_TRACE_URL: http://host.docker.internal:18545/
         DATABASE_URL: postgresql://postgres:passwd@host.docker.internal:5432/blockscout
         ACCOUNT_REDIS_URL: redis://redis-db:6379
         COIN: DBC
